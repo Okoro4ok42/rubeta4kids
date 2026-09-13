@@ -1,7 +1,7 @@
 ## ruBeta4Kids
 Адаптация легендарного текстурпака minecraft4kids (Его использовал в своих роликах Alex Crish!) для игры на Рубете.
 # Текстурпак имеет две версии:
-- [Standart](https://github.com/Okoro4ok42/rubeta4kids/releases/tag/Standart) - базовая версия, с минимумом отсебятины
+- [Standard](https://github.com/Okoro4ok42/rubeta4kids/releases/tag/Standart) - базовая версия, с минимумом отсебятины
 - [Enchanced](https://github.com/Okoro4ok42/rubeta4kids/releases/tag/Encahanced) - расширенная версия, не всем может понравиться
 
 Текстурпак меняет 99.1337% или 99.1488% всех текстур (в зависимости от версии), включая модовые и даже те, которым нет аналогов в новых версиях майнкрафта (спальники, всяческие пластины, шапочки, шарфы и т.д.).
